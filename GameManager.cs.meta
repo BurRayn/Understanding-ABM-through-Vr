@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e95902eb7502d22499c61973f7f1b5a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombiePrefab: {fileID: 919132149155446097, guid: 06ef5fc1fa0141b44b73dd363bfd628a, type: 3}
+  - humanPrefab: {fileID: 919132149155446097, guid: a0c1ec9c9f2384c76a573fa14f24ab9c, type: 3}
+  - spawnArea: {instanceID: 0}
+  - defaultCameraPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
